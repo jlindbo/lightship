@@ -5,30 +5,30 @@ export const lightshipCenters: LightshipCenter[] = [
     id: 'oslo',
     name: 'OSLO',
     location: 'Lightship Center OSLO',
-    image: '/images/centers/oslo.jpg'
+    image: '/images/placeholder.svg'
   },
   {
     id: 'bergen',
     name: 'BERGEN',
     location: 'Lightship Center BERGEN',
-    image: '/images/centers/bergen.jpg'
+    image: '/images/placeholder.svg'
   },
   {
     id: 'stavanger',
     name: 'STAVANGER',
     location: 'Lightship Center STAVANGER',
-    image: '/images/centers/stavanger.jpg'
+    image: '/images/placeholder.svg'
   },
   {
     id: 'trondheim',
     name: 'TRONDHEIM',
     location: 'Lightship Center TRONDHEIM',
-    image: '/images/centers/trondheim.jpg'
+    image: '/images/placeholder.svg'
   },
   {
     id: 'lofoten',
     name: 'LOFOTEN',
     location: 'Lightship Center LOFOTEN',
-    image: '/images/centers/lofoten.jpg'
+    image: '/images/placeholder.svg'
   }
 ];

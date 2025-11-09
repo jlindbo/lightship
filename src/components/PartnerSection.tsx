@@ -27,7 +27,7 @@ export default function PartnerSection() {
           
           <div className="relative h-[400px] bg-blue-800/50 rounded-lg overflow-hidden">
             <img
-              src="/images/partnership.jpg"
+              src="/images/placeholder.svg"
               alt="Norwegian Innovation Partnership"
               className="w-full h-full object-cover"
             />

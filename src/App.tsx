@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
+import HeroInterior from './components/HeroInterior';
 import BoatShowcase from './components/BoatShowcase';
 import PhilosophySection from './components/PhilosophySection';
 import PartnerSection from './components/PartnerSection';
@@ -24,22 +25,23 @@ function App() {
       <HeroSection
         title="ENJOY NEW LIGHTSHIP 75"
         subtitle="The future of sustainable luxury yachting"
-        backgroundImage="/images/hero-ls75.jpg"
+        backgroundImage="/images/placeholder.svg"
         ctaButtons={[
           { text: 'Discover LS75', href: '#ls75' },
           { text: 'Request info', href: '#contact', variant: 'secondary' }
         ]}
       />
 
-      {/* Secondary Hero */}
-      <HeroSection
+      {/* Interior Hero */}
+      <HeroInterior
         title="A LIVABLE MASTERPIECE"
-        subtitle="Where Norwegian craftsmanship meets electric innovation"
-        backgroundImage="/images/hero-masterpiece.jpg"
+        backgroundImage="/images/placeholder.svg"
         ctaButtons={[
           { text: 'Discover', href: '#models' },
           { text: 'Request Info', href: '#contact', variant: 'secondary' }
         ]}
+        slideIndicators={3}
+        currentSlide={0}
       />
 
       {/* Philosophy Section */}
