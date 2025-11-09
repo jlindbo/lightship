@@ -1,0 +1,19 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="url(#paint0_linear_2_1)"/>
+  <defs>
+    <linearGradient id="paint0_linear_2_1" x1="0" y1="1080" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.3">
+    <rect x="200" y="150" width="400" height="400" stroke="white" stroke-width="16" fill="none"/>
+    <rect x="1350" y="650" width="320" height="320" stroke="white" stroke-width="16" fill="none"/>
+  </g>
+  <text x="160" y="940" font-family="'Inter', sans-serif" font-size="68" font-weight="700" fill="white" opacity="0.65">
+    SILENT POWER
+  </text>
+  <text x="160" y="1010" font-family="'Inter', sans-serif" font-size="32" font-weight="300" fill="white" opacity="0.45">
+    Experience zero-emission cruising
+  </text>
+</svg>

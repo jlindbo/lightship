@@ -1,6 +1,6 @@
 export default function PartnerSection() {
   return (
-    <section className="py-20 bg-gradient-to-br from-blue-900 to-blue-700 text-white">
+    <section id="partnership" className="py-20 bg-gradient-to-br from-blue-900 to-blue-700 text-white">
       <div className="container mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>

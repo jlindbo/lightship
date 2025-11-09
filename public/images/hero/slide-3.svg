@@ -1,0 +1,19 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="url(#paint0_radial_3_1)"/>
+  <defs>
+    <radialGradient id="paint0_radial_3_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 540) rotate(90) scale(750 1050)">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </radialGradient>
+  </defs>
+  <g opacity="0.25">
+    <path d="M600 160L960 480L1320 160" stroke="white" stroke-width="14" fill="none"/>
+    <path d="M420 880L960 440L1500 880" stroke="white" stroke-width="14" fill="none"/>
+  </g>
+  <text x="960" y="180" text-anchor="middle" font-family="'Inter', sans-serif" font-size="64" font-weight="700" fill="white" opacity="0.6">
+    A LIVABLE MASTERPIECE
+  </text>
+  <text x="960" y="250" text-anchor="middle" font-family="'Inter', sans-serif" font-size="32" font-weight="300" fill="white" opacity="0.4">
+    Crafted for those who lead the charge
+  </text>
+</svg>
